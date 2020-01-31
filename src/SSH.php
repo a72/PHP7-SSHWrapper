@@ -29,7 +29,7 @@ class SSH
     public $pattern;
     public $host;
     public $port = 22;
-    public $messages = '';
+    public $messages = [];
     public $loglevel = 0;
     public $timeout = 5;
     public $ssh;
