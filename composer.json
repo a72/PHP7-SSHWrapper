@@ -1,8 +1,8 @@
 {
-	"name": "metaclassing/php7-sshwrapper",
+	"name": "a72/php7-sshwrapper",
 	"type": "library",
 	"description": "Friendly wrapper for PHPSECLIB SSHv2 client",
-	"homepage": "http://github.com/metaclassing/PHP7-SSHWrapper",
+	"homepage": "http://github.com/a72/PHP7-SSHWrapper",
 	"license": "LGPL-3.0-or-later",
 	"authors": [
 		{
